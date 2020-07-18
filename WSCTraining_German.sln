@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSCTraining_German", "WSCTraining_German\WSCTraining_German.csproj", "{92320F78-E32D-417B-9FF5-1624BCC1B179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSCTraining_German3", "WSCTraining_German3\WSCTraining_German3.csproj", "{A1F352B1-8098-4037-A575-C5D319759DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92320F78-E32D-417B-9FF5-1624BCC1B179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92320F78-E32D-417B-9FF5-1624BCC1B179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92320F78-E32D-417B-9FF5-1624BCC1B179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92320F78-E32D-417B-9FF5-1624BCC1B179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F352B1-8098-4037-A575-C5D319759DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F352B1-8098-4037-A575-C5D319759DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F352B1-8098-4037-A575-C5D319759DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F352B1-8098-4037-A575-C5D319759DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45B2D8E-5A9D-4BDE-8D5E-B05901278118}
+	EndGlobalSection
+EndGlobal
